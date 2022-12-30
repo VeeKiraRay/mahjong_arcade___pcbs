@@ -1,14 +1,22 @@
 # Mahjong arcade DIY control panels
 Kicad projects for a small mahjong control panel pcb that can be wired to be used with a real arcade game
 
+
+Inspired by buffis JammaMahjongAdapter
+https://github.com/buffis/JammaMahjongAdapter
+
+
 Mahjong pinout that was followed when designing these
 ![Alt text](mahjong_pinout.jpg?raw=true "Mahjong pinout img")
 
-Comparison with different versions with "Hot Gimmick 3" arcade pcb. Added a commercial version for windows as a size comparison as well. 
+Comparison with different versions next to "Hot Gimmick 3" arcade pcb. Added a commercial version for Windows as a size comparison as well. 
 ![Alt text](all_control_panel_comparison.jpg?raw=true "Comparison img")
 
+Ready to play with small control panel and mahjong to jamma adapter
+![Alt text](ready_to_play.jpg?raw=true "Ready_to_play img")
+
 ## Mahjong control panel symbols
-For printing stickers or otherwiser marking control panels here are some of the common characters to use
+For printing stickers or otherwise marking control panels here are some of the common characters to use
 
 Lower part of control panel
 - coin (F.F.) / ko-i-n / コイン
