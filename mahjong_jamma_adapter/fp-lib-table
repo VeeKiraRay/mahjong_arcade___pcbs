@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "jamma")(type "KiCad")(uri "${KIPRJMOD}/libraries")(options "")(descr ""))
+  (lib (name "SPDT")(type "KiCad")(uri "${KIPRJMOD}/libraries/SamacSys_Parts.pretty")(options "")(descr ""))
+)
